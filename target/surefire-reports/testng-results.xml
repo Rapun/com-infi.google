@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31185" started-at="2020-04-28T09:38:43 IST" finished-at="2020-04-28T09:39:14 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31185" started-at="2020-04-28T09:38:43 IST" finished-at="2020-04-28T09:39:14 IST">
+      <class name="com.infi.google.bas.Bing">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infi.google.bas.Bing@2038ae61]" name="setUp" is-config="true" duration-ms="10086" started-at="2020-04-28T09:38:43 IST" finished-at="2020-04-28T09:38:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Verifyurl()[pri:0, instance:com.infi.google.bas.Bing@2038ae61]" name="Verifyurl" duration-ms="64" started-at="2020-04-28T09:39:07 IST" finished-at="2020-04-28T09:39:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifyurl -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infi.google.bas.Bing@2038ae61]" name="tearDown" is-config="true" duration-ms="5952" started-at="2020-04-28T09:39:07 IST" finished-at="2020-04-28T09:39:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.infi.google.bas.Bing -->
+      <class name="com.infi.google.bas.Flipkart">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infi.google.bas.Flipkart@3c0f93f1]" name="setUp" is-config="true" duration-ms="14448" started-at="2020-04-28T09:38:53 IST" finished-at="2020-04-28T09:39:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Verifyurl()[pri:0, instance:com.infi.google.bas.Flipkart@3c0f93f1]" name="Verifyurl" duration-ms="7" started-at="2020-04-28T09:39:07 IST" finished-at="2020-04-28T09:39:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifyurl -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infi.google.bas.Flipkart@3c0f93f1]" name="tearDown" is-config="true" duration-ms="530" started-at="2020-04-28T09:39:13 IST" finished-at="2020-04-28T09:39:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.infi.google.bas.Flipkart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
